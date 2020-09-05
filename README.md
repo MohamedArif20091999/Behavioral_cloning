@@ -5,7 +5,7 @@
 #### Captured images for complete 360 degree of various conditions on a simulator.
 ### NEURAL NETWORK-
 #### Trained an CNN network with image augmentation flow using openCV.
-# Take a look into the algorithm in action
+# Algorithm in action
 ![GIF](images/ezgif-6-863a04ded33a.gif)
 ### Details:
 ##### Data distribution
