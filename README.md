@@ -3,7 +3,9 @@
 <br/>
 <br/>
 # Overview
+<br/>
 ### DATASET- Captured images for complete 360 degree of various conditions on a simulator.
+<br/>
 ### NEURAL NETWORK- Trained an CNN network with image augmentation flow using openCV.
 <br/>
 ##.
