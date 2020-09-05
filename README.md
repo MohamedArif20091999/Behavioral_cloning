@@ -6,5 +6,5 @@
 ### NEURAL NETWORK-
 #### Trained an CNN network with image augmentation flow using openCV.
 # Take a look into the algorithm action
-
+![GIF](images/ezgif-6-863a04ded33a.gif)
 
