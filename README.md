@@ -10,6 +10,8 @@
 ### Details:
 ##### Data distribution
 ![distribution](images/diatribution.png)
+#### After augmentatin flow
+![augmented](images/augmentation_flow.png)
 
 
 
