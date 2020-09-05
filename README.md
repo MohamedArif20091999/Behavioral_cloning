@@ -9,7 +9,7 @@
 ![GIF](images/ezgif-6-863a04ded33a.gif)
 ### Details:
 ##### Data distribution
-![distribution](images/diastribution.png)
+![distribution](images/diatribution.png)
 
 
 
